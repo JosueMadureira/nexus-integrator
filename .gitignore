@@ -1,0 +1,37 @@
+# Build artifacts
+target/
+instalador/
+instalador-final/
+*.class
+
+# Maven
+dependency-reduced-pom.xml
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.backup
+
+# Logs
+logs/
+*.log
+
+# Config (sensitive)
+config_sieg.json
+
+apache-maven-*/
+*.java.bak
