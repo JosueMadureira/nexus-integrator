@@ -52,4 +52,4 @@ O instalador será gerado em `instalador-final/NexusIntegrator-Setup.exe`
 
 ## 📝 Licença
 
-Proprietary - Rocket Nexus © 2026
+Proprietary - Josué Madureira © 2026
